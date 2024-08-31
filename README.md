@@ -1,7 +1,6 @@
 # Netflix-Prime-Disney-Hotstar-Dashboard-Power-BI
 
-
-![image](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)](https://github.com/undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)
+https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI
 
 
 ## Dataset (Kaggle)
