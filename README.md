@@ -1,6 +1,4 @@
-# Netflix-Prime-Disney-Hotstar-Dashboard
-Worked on various OTT Dataset. Used the Query Editor for data cleaning and preprocessing. Displayed the visuals using a variety of plots, cards.
-
+# Netflix-Prime-Hotstar-Dashboard-Power-BI
 
 ![Profile Visitors](https://gpvc.arturio.dev/undiscovered-genius) 
 [![Repository Visitors](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)](https://github.com/undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)
